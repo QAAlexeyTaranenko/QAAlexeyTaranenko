@@ -89,8 +89,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/CertJunEng.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/QAAlexeyTaranenko/QAAlexeyTaranenko/blob/main/CertJunEng.png)
-[<img src="/CertMidEn" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/QAAlexeyTaranenko/QAAlexeyTaranenko/blob/main/CertMidEn.png)
+[<img src="/CertMidEn.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/QAAlexeyTaranenko/QAAlexeyTaranenko/refs/heads/main/CertMidEn.png)
+
 
 <br>
 <br>
